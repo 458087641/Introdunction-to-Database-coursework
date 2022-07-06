@@ -1,0 +1,1 @@
+<R>[Title->AlbumTitle]((<P>[Artist,Year,Title](<S>[Type ='STUDIO'](Albums)))<D>(<P>[Year,Title,Artist](<S>[Year<Year1 & Type='STUDIO' & Artist=Artist1&Type1='STUDIO']((<R>[Title->Title1, Artist->Artist1, Year->Year1, Type->Type1, Rating->Rating1](Albums))<X> Albums))))

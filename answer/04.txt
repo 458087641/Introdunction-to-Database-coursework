@@ -1,0 +1,1 @@
+<P>[Name](Artists)<D>(<P>[Name](<S>[Type='LIVE'](<S>[Name=Artist](<R>[Type->type1](Artists) <X> Albums))))

@@ -1,0 +1,1 @@
+<P>[Name,Country](<S>[(Year<1999)&(~(Year<1990))]((<R>[Type->Type1](Artists)) <X> Albums))

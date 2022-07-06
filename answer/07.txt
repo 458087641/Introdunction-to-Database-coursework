@@ -1,0 +1,1 @@
+(<P>[Name](Artists))<D>(<R>[Artist->Name](<P>[Artist](<S>[Artist=Artist1&~(Rating<Rating1)& ~(Title = Title1)& (Year<Year1)& ~(Rating=Rating1)]((<R>[Title->Title1, Artist->Artist1, Year->Year1, Type->Type1, Rating->Rating1](Albums))<X> Albums))))

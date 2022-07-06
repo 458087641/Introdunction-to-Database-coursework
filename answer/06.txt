@@ -1,0 +1,1 @@
+(<P>[Name](<S>[Type='BAND'](Artists)))<D>(<P>[Name](<S>[ArtType='BAND'&Artist=Name&~(Type='STUDIO')]((<R>[Type->ArtType](Artists))<X>Albums)))
